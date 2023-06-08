@@ -10,6 +10,7 @@ namespace PromedioProyecto
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
