@@ -25,7 +25,7 @@ namespace PromedioProyecto
       {
          if (con != 0) 
          {
-            return acum / con;
+            return acum/con;
          }
          else
          {
